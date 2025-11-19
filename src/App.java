@@ -6,4 +6,9 @@ public class App {
     public static void eje1(){
         System.out.println("Hola");
     }
+
+    public static void funcioncaballo(){
+        System.out.println("Caballo");
+    }
+
 }
